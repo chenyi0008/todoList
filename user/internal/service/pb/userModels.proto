@@ -10,3 +10,5 @@ message UserModel {
   // @inject_tag: json:"nick_name"
   string NickName=3;
 }
+
+
